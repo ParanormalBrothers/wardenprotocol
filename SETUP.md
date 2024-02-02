@@ -37,7 +37,7 @@ The `blockchain` directory contains the Cosmos SDK blockchain code. We can run
 a local node with the following:
 
 ```bash
-cd blockchain
+cd wardenprotocol/blockchain
 ./init.sh
 ```
 
