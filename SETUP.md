@@ -19,12 +19,12 @@ This page describes the necessary steps to take before running and using Warden 
 
 ### Requirements
 
-- go 1.21+ [ref](https://golang.org/doc/install)
-- git. [ref](https://github.com/git/git)
-- jq [ref](https://github.com/stedolan/jq)
-- GNU make. [ref](https://www.gnu.org/software/make/manual/html_node/index.html)
-- GCC [ref](https://gcc.gnu.org/releases.html)
-- docker (used to regenerate protobufs)
+> - go 1.21+ [ref](https://golang.org/doc/install)
+> - git. [ref](https://github.com/git/git)
+> - jq [ref](https://github.com/stedolan/jq)
+> - GNU make. [ref](https://www.gnu.org/software/make/manual/html_node/index.html)
+> - GCC [ref](https://gcc.gnu.org/releases.html)
+> - docker (used to regenerate protobufs)
   
 * For Debian/Ubuntu based distros
   - `sudo apt-get update`
