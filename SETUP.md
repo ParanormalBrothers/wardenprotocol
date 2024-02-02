@@ -35,14 +35,13 @@ This page describes the necessary steps to take before running and using Warden 
 
 ### Setup
 
-#### Run the chain
-
 Clone the repo:
 
 ```bash
 git clone https://github.com/warden-protocol/wardenprotocol.git
 ```
 
+#### Automatic setup and run (local blockchain)
 The `blockchain` directory contains the Cosmos SDK blockchain code. We can run
 a local node with the following:
 
@@ -62,6 +61,10 @@ Resume the chain after stopping the daemon
 ```bash
 wardend start
 ```
+
+#### Manual setup
+Instructions will be added after testnet start
+
 
 #### Faucet
 
